@@ -1,0 +1,7 @@
+{
+  "name": "consultaAPI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
